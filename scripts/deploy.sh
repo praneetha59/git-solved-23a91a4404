@@ -33,4 +33,4 @@ echo "Rolling update strategy initiated..."
 # kubectl rolling-update devops-simulator
 
 echo "Deployment completed successfully!"
-echo "Application available at: https://app.example.com"
+echo "Application available at: https://app.example.com""BUG" 
