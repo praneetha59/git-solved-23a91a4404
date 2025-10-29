@@ -1,0 +1,18 @@
+* 1c1df4a (HEAD -> main, origin/main) docs: Add changelog
+* a91fd7c (tag: v1.1.0, tag: v1.0.0) feat: add new feature
+| * 1f80fbf (origin/feature/another-feature) Revert "feat: add new feature"
+| | * 97157fe (origin/feature/new-feature, feature/new-feature) feat: add new feature
+| | * 77f5a63 docs: add tip section
+| |/  
+|/|   
+* |   a48f483 Fix package.json dev script to use monitor.js
+|\ \  
+| |/  
+|/|   
+| * 02011a5 (instructor/dev, dev) updating dev
+* | 0312c6f (instructor/main, instructor/HEAD, feature/another-feature) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+|/  
+* ae630eb Initial commit
